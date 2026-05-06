@@ -1,3 +1,3 @@
 {% include_relative README.md %}
 
-[links.md] (Links)
+(Links)[links.md]
