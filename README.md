@@ -1,3 +1,5 @@
 # <span style="color: #ff201e">Doktor Vater</span> 
-#### Teaching rope work in Virginia.
+
+
+#### Your advisor on the advanced study of rope art
 
